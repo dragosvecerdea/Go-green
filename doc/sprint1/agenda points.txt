@@ -1,0 +1,17 @@
+
+Is everyone familiar with git? if not make sure everyone is
+
+any frameworks / libraries that you found that are usefull?
+- Spring
+- Jersey
+- JavaFX
+- JDBC
+
+Structure of the application:
+how are we going to interact between server and client, rough sketch of data flow
+what database are we going to use, rough sketch of data storage
+who wants to do what: client/gui vs server/database (divide the tasks)
+
+create issues / issue board for this week
+make sure it is done on sunday / monday
+plan second meeting to finish issues that are mandatory and make report on sprint
